@@ -1,5 +1,7 @@
 <h1 align="center">Pincer Discord Bot Template (Python)</h1>
 
+> **WARNING**: Pincer is still in its alpha/planning stage, therefore it is not 100% stable. Create a bot with Pincer at your own risk.
+
 This repository is a template for a Discord bot using the Pincer library in Python, which is meant to interact with the Discord API similar to libraries like [**nextcord.py**](https://github.com/nextcord/nextcord), [**discord.py**](https://github.com/Rapptz/discord.py) and [**disnake**](https://github.com/DisnakeDev/disnake).
 
 ## What is Pincer?
